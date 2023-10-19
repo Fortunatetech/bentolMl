@@ -1,0 +1,15 @@
+bentoml
+dvc
+seaborn
+flask
+pandas 
+numpy
+matplotlib
+seaborn
+lightgbm
+catboost
+scikit-learn
+streamlit
+joblib
+dill
+-e .
